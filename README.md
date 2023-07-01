@@ -2,4 +2,4 @@
 fashion website landing page
 
  
-![stack Overflow](http://lmsotfy.com/so.png)
+ ![Screenshot](https://github.com/vyportfolio1/fashion_website/img/Frame 2.jpg)https://github.com/vyportfolio1/fashion_website/img/Frame 2.jpg)
